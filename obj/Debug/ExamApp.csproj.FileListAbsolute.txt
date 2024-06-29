@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExamApp\bin\Debug\ExamApp.exe.config
+C:\Users\Admin\source\repos\ExamApp\bin\Debug\ExamApp.exe
+C:\Users\Admin\source\repos\ExamApp\bin\Debug\ExamApp.pdb
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.Customs.CustomTextBox.resources
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.Login.resources
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.exe
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.pdb
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.Customs.CustomComboBox.resources
+C:\Users\Admin\source\repos\ExamApp\obj\Debug\ExamApp.Dashboard.resources
